@@ -3,3 +3,7 @@
 *.lock
 pkg/*
 *.log
+.rvmrc
+.ruby-version
+.ruby-gemset
+.idea/
